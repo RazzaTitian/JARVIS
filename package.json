@@ -1,0 +1,28 @@
+{
+  "name": "jarvis",
+  "version": "1.0.0",
+  "description": "JARVIS - Just A Random and Very Inane System",
+  "type": "module",
+  "main": "src/cli.js",
+  "scripts": {
+    "start:cli": "node src/cli.js",
+    "start:discord": "node src/discord/discordBot.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "llm",
+    "agent",
+    "discord",
+    "bot"
+  ],
+  "author": "Muhammad Razza Titian Jiwani",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.7",
+    "openai": "^4.77.0"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
