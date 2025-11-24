@@ -1,0 +1,15 @@
+{"ts":"2025-11-24T17:13:10.419Z","level":"INFO","message":"Using REAL OpenAI LLM.","meta":null}
+{"ts":"2025-11-24T17:13:17.578Z","level":"INFO","message":"Handling command","meta":{"userId":"cli-user","command":"help","isPrefixed":true}}
+{"ts":"2025-11-24T17:13:29.004Z","level":"INFO","message":"Handling command","meta":{"userId":"cli-user","command":"apa","isPrefixed":true}}
+{"ts":"2025-11-24T17:13:29.473Z","level":"ERROR","message":"Error in CLI","meta":{"error":"401 Incorrect API key provided: i-have-n**************enai. You can find your API key at https://platform.openai.com/account/api-keys."}}
+{"ts":"2025-11-24T17:13:31.838Z","level":"INFO","message":"Handling command","meta":{"userId":"cli-user","command":"apa","isPrefixed":true}}
+{"ts":"2025-11-24T17:13:32.164Z","level":"ERROR","message":"Error in CLI","meta":{"error":"401 Incorrect API key provided: i-have-n**************enai. You can find your API key at https://platform.openai.com/account/api-keys."}}
+{"ts":"2025-11-24T17:14:02.294Z","level":"INFO","message":"Handling command","meta":{"userId":"cli-user","command":"apa","isPrefixed":true}}
+{"ts":"2025-11-24T17:14:02.624Z","level":"ERROR","message":"Error in CLI","meta":{"error":"401 Incorrect API key provided: i-have-n**************enai. You can find your API key at https://platform.openai.com/account/api-keys."}}
+{"ts":"2025-11-24T17:16:11.542Z","level":"INFO","message":"Handling command","meta":{"userId":"cli-user","command":"note","isPrefixed":true}}
+{"ts":"2025-11-24T17:16:21.062Z","level":"INFO","message":"Handling command","meta":{"userId":"cli-user","command":"note","isPrefixed":true}}
+{"ts":"2025-11-24T17:16:25.693Z","level":"INFO","message":"Handling command","meta":{"userId":"cli-user","command":"note","isPrefixed":true}}
+{"ts":"2025-11-24T17:16:49.865Z","level":"INFO","message":"Using REAL OpenAI LLM.","meta":null}
+{"ts":"2025-11-24T17:19:39.488Z","level":"WARN","message":"No OPENAI_API_KEY found. Using fakeLLM (0 cost).","meta":null}
+{"ts":"2025-11-24T17:19:40.615Z","level":"INFO","message":"Logged in as NLP Bot#3995","meta":null}
+{"ts":"2025-11-24T17:25:19.539Z","level":"INFO","message":"Handling command","meta":{"userId":"334159285002960898","command":"help","isPrefixed":true}}
